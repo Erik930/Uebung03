@@ -14,11 +14,11 @@ public class H3_main {
 		}
 		
 		boolean istVoll = (fix == max);
+		//ist das so richtig? ich habe den Hinweis auf dem Aufgabenblatt nicht richtig verstanden
 		
-		
-		System.out.println("fix:" + fix);
-		System.out.println("wartend:" + wartend);
-		System.out.println("istVoll:" + istVoll);
+		System.out.println("fix: " + fix);
+		System.out.println("wartend: " + wartend);
+		System.out.println("istVoll: " + istVoll);
 		
 		
 	}
